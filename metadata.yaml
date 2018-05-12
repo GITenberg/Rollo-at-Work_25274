@@ -22,6 +22,8 @@ description: '"The Rollo books: A lively collection of stories about Rollo and h
   it is generally better, in dealing with children, to allure them to what is right
   by agreeable pictures of it, than to attempt to drive them to it by repulsive delineations
   of what is wrong." -- cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25274#Rollo-at-Work
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-05-01'
 gutenberg_type: Text
