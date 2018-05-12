@@ -1,0 +1,39 @@
+_repo: Rollo-at-Work_25274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: '"The Rollo books: A lively collection of stories about Rollo and his
+  every day adventures in growin up in 19th century rural America, that have delighted
+  generations of children... The scenes are laid in quiet and virtuous life, and the
+  character and conduct described are generally--with the exception of some of the
+  ordinary exhibitions of childish folly--character and conduct to be imitated, for
+  it is generally better, in dealing with children, to allure them to what is right
+  by agreeable pictures of it, than to attempt to drive them to it by repulsive delineations
+  of what is wrong." -- cover.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: Rollo at Work
+url: http://www.gutenberg.org/ebooks/25274
